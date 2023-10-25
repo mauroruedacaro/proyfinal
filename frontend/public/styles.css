@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+#medicamentos, #ventas {
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+
+#medicamento-select, #cantidad {
+    width: 100%;
+    margin-bottom: 10px;
+}
+h1 {
+    text-align: center;
+}
+
+#medicamentos, #ventas {
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+
+#medicamento-select, #cantidad {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+#venta-resumen {
+    margin-top: 20px;
+    border: 1px solid #ccc;
+    padding: 10px;
+    display: none;
+}
